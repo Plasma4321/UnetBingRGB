@@ -1,0 +1,12 @@
+/BingRGBRawData
+/checkpoints
+/data
+/outputs/label_distribution_test.png
+/outputs/label_distribution_train.png
+/checkpointsMultiFromScratch
+/DataDummy/test/gts
+/DataDummy/test/images
+/DataDummy/train/gts
+/DataDummy/train/images
+/outputs
+/checkpointsUsing2GPu
